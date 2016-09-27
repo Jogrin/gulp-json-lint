@@ -1,2 +1,2 @@
 # gulp-json-lint
-A jsonlint plugin for Gulp (it use json5-utils plugin for duplicate keys)
+A jsonlint plugin for Gulp (it uses json5-utils plugin to duplicate keys)
