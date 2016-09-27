@@ -5,7 +5,7 @@ var gutil = require('gulp-util');
 var PluginError = require('gulp-util').PluginError;
 var jsonlint = require('gulp-jsonlint');
 var jutil = require('json5-utils');
-var mapStream = require('mapStream');
+var mapStream = require('map-stream');
 
 //Module name const
 const PLUGIN_NAME = 'gulp-json-lint';
